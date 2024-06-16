@@ -4,7 +4,8 @@
 
 ### 💬 about me
 
-- 🎓 computer science student at grinnell college.
+- 🎓 computer science student @ grinnell college.
+- 💼 swe intern @ p3 + uplift.
 
 ### 🔗 links
 
