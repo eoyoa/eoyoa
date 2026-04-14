@@ -6,7 +6,7 @@
 
 - 🎓 computer science student @ grinnell college.
 - 💼 previous swe intern @ p3 + uplift.
-- 🔧 maintainer of [scamper](https://github.com/slag-plt/scamper)
+- 🔧 maintainer of [scamper](https://github.com/slag-plt/scamper).
 
 ### 🔗 links
 
