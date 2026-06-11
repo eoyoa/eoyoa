@@ -4,7 +4,8 @@
 
 ### 💬 about me
 
-- 🎓 computer science student @ grinnell college.
+- 🎓 cs (w/ honors) + music @ grinnell college.
+- 💼 incoming swe @ capital one.
 - 💼 previous swe intern @ p3 + uplift.
 - 🔧 maintainer of [scamper](https://github.com/slag-plt/scamper).
 
